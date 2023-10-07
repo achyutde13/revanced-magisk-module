@@ -1,5 +1,5 @@
-YouTube: 18.37.36  
 Music: 6.22.51  
+YouTube: 18.37.36  
 Twitter: 10.10.0-release.0  
 Twitch: 16.1.0  
 Reddit: 2023.39.0  
