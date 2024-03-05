@@ -1,7 +1,7 @@
 Twitter: 10.30.0-release.0  
-Twitch: 16.9.1  
 TikTok: 32.5.3  
 Music: 6.41.58  
+Twitch: 16.9.1  
 Reddit: 2024.08.0  
 YouTube: 19.04.37  
 
