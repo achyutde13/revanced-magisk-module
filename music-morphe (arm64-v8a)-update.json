@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.39.0.mpp)",
-  "versionCode": 137,
-  "zipUrl": "https://github.com/achyutde13/revanced-magisk-module/releases/download/137/music-morphe-module-v9.15.51-arm64-v8a.zip",
+  "version": "v9.15.51 (patches 1.39.1.mpp)",
+  "versionCode": 138,
+  "zipUrl": "https://github.com/achyutde13/revanced-magisk-module/releases/download/138/music-morphe-module-v9.15.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/achyutde13/revanced-magisk-module/update/build.md"
 }
